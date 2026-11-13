@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppHotel.Views.HospedagemContratada"
+             Title="HospedagemContratada"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="{StaticResource Gray100}"
+             >
+
+    <VerticalStackLayout VerticalOptions="CenterAndExpand">
+
+        <Label Text="Suite Super Luxo"
+               TextColor="Black"
+               FontFamily="Indie"
+               FontSize="30"
+               HorizontalTextAlignment="Center"
+               
+               />
+
+        <Frame Margin="10">
+               
+               <HorizontalStackLayout>
+
+                        <HorizontalStackLayout>
+                               <Label Text="Adultos:2 "
+                                       FontFamily="Indie"
+                                    FontSize="20"/>
+                            
+                               <Label Text="2"
+                              TextColor="Black"
+                                      FontFamily="Indie"
+                                      FontSize="20"/>
+
+                         </HorizontalStackLayout>
+
+                      <HorizontalStackLayout>
+                             <Label Text="Crianças:1"
+                                     FontFamily="Indie"
+                                     FontSize="20"/>
+                          
+                             <Label Text="2"
+                                      TextColor="Black"
+                                     FontFamily="Indie"
+                                        FontSize="20"/>
+
+                    </HorizontalStackLayout>
+
+
+            </HorizontalStackLayout>
+
+
+        </Frame>
+
+        <Frame Margin="10">
+            <Grid ColumnDefinitions="*, *, *"
+                  RowDefinitions="Auto,Auto">
+                <Label Grid.Row="0" Grid.Column="0" Text="Check-in:"  FontFamily="Indie" FontSize="20"/>
+                <Label Grid.Row="0" Grid.Column="1" Text="Check-out:" FontFamily="Indie" FontSize="20" />
+                <Label Grid.Row="0" Grid.Column="2" Text="Estadia:" FontFamily="Indie" FontSize="20" />
+
+
+                <Label Grid.Row="1" Grid.Column="0" Text="09/11/2026" FontFamily="Indie" FontSize="20" />
+                <Label Grid.Row="1" Grid.Column="1" Text="12/11/2026" FontFamily="Indie" FontSize="20"/>
+                <Label Grid.Row="1" Grid.Column="2" Text="3" FontFamily="Indie" FontSize="20"/>
+            </Grid>
+            
+            
+            
+        </Frame>
+
+        <Frame Margin="10">
+            <HorizontalStackLayout>
+
+                <Label Text="Valor total" FontFamily="Indie" FontSize="20"/>
+                <Label Text="R$ 750,00" FontFamily="Indie" FontSize="20"/>
+                                
+            </HorizontalStackLayout>
+                        
+        </Frame>
+
+        <Button Text="Voltar"
+                BackgroundColor="Gray"
+                TextColor="Black"
+                HorizontalOptions="Center"
+                Clicked="Button_Clicked"
+                FontFamily="Indie" FontSize="20" FontAttributes="Bold"/>
+
+
+    </VerticalStackLayout>
+
+</ContentPage>

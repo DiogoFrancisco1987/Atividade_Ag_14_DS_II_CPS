@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\MauiAppHotelAg14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\views\\hospedagemcontratada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\hospedagemcontratada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\views\\paginasobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\paginasobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\dev\\mauiapphotelag14\\mauiapphotel\\views\\paginasobre.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\paginasobre.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginaSobre.xaml",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\PaginaSobre.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\PaginaSobre.xaml",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\PaginaSobre.xaml",
+              "RelativeToolTip": "MauiAppHotel\\Views\\PaginaSobre.xaml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T05:21:13.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospedagemContratada.xaml",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "RelativeToolTip": "MauiAppHotel\\Views\\HospedagemContratada.xaml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-09T16:20:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContratacaoHospedagem.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA7wDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:32:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratacaoHospedagem.xaml",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwIYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-09T15:16:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\App.xaml.cs",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\App.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\App.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:28:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Models\\Quarto.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Models\\Quarto.cs",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Models\\Quarto.cs",
+              "RelativeToolTip": "MauiAppHotel\\Models\\Quarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:26:43.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginaSobre.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\PaginaSobre.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\PaginaSobre.xaml.cs",
+              "ToolTip": "C:\\dev\\MauiAppHotelAg14\\MauiAppHotel\\Views\\PaginaSobre.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\Views\\PaginaSobre.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:54:17.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
